@@ -1,0 +1,6 @@
+{
+  "name": "Karier Jenderal",
+  "description": "Simulator karier militer realistis dari Kadet tahun 2000 hingga Jenderal Tertinggi dengan sistem pangkat, jabatan, simulasi taktis 2D, dan strategi pertahanan nasional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
